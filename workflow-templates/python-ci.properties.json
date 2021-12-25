@@ -1,0 +1,12 @@
+{
+    "name": "Python Test Runner",
+    "description": "Runs Python tests",
+    "iconName": "TODO-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "requirements.txt$",
+        "^tests"
+    ]
+}
