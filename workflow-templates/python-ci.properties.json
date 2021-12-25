@@ -1,7 +1,7 @@
 {
     "name": "Python Test Runner",
     "description": "Runs Python tests",
-    "iconName": "TODO-icon",
+    "iconName": "python",
     "categories": [
         "Python"
     ],
